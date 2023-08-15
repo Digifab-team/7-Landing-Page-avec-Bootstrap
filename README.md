@@ -8,7 +8,6 @@ Bienvenue dans cet atelier où nous allons réaliser ensemble une landing page r
 2. [Description de la Landing Page](#description-de-la-landing-page)
 3. [Fichiers dans ce dépôt](#fichiers-dans-ce-dépôt)
 4. [Démarrer le projet](#démarrer-le-projet)
-5. [Conclusion](#conclusion)
 
 ## Objectif
 
