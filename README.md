@@ -1,4 +1,4 @@
-# Atelier : Construction d'une Landing Page
+# Atelier : Landing Page
 
 Bienvenue dans cet atelier où nous allons réaliser ensemble une landing page responsive pour une entreprise, étape par étape.
 
