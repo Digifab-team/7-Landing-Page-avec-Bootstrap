@@ -1,6 +1,6 @@
 # Mise en Place Initiale d'une Landing Page
 
-Bienvenue à cette étape du tutoriel, où nous allons mettre en place et personnaliser la page d'accueil pour donner à votre entreprise une première impression remarquable.
+Bienvenue à cette étape de l'atelier Landing Page, où nous allons mettre en place et personnaliser la page d'accueil pour donner à votre entreprise une première impression remarquable.
 
 ## Contenu
 
